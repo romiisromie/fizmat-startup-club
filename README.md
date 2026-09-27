@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://github.com" width="90" alt="Startup Club" style="border-radius: 12px; margin-bottom: 20px;">
-  
-  # Startup Club
-  *National School of Physics & Math (FIZMAT)*
-  
-  ---
+
+# ─── ❖ ───  <img src="https://github.com" width="45" alt="Startup Club" style="vertical-align: middle; border-radius: 6px; margin: 0 10px;">  STARTUP CLUB  ─── ❖ ───
+
+*National School of Physics & Math (FIZMAT)*
+
 </div>
